@@ -1,5 +1,5 @@
 {
-    "name": "iplusservice/nexi-npg-php",
+    "name": "nexi/nexi-npg-php",
     "description": "Nexi SDK for NPG",
     "type": "library",
     "require": {

@@ -47,15 +47,6 @@ use NexiSdk\model\ThreeDSPaymentResponse;
 use NexiSdk\model\ThreeDSValidationRequest;
 use NexiSdk\model\ThreeDSValidationResponse;
 
-/**
- * Class PaymentGatewayClient
- *
- * @category Sdk
- * @package  NexiSdk
- * @author   iPlus Service s.r.l. <assistenza@iplusservice.it>
- * @license  https://opensource.org/licenses/gpl-license.php GNU Public License
- * @link     https://www.iplusservice.it
- */
 class PaymentGatewayClient
 {
 
