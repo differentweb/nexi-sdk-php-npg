@@ -1,6 +1,7 @@
 {
     "name": "nexi/nexi-npg-php",
     "description": "Nexi SDK for NPG",
+    "minimum-stability": "dev",
     "type": "library",
     "require": {
         "php": ">=7.3",
