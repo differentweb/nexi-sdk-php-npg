@@ -1,5 +1,5 @@
 {
-    "name": "differentweb/sdk-php-npg",
+    "name": "differentweb/nexi-sdk-php-npg",
     "description": "Nexi SDK for NPG",
     "minimum-stability": "dev",
     "type": "library",
